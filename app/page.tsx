@@ -142,7 +142,7 @@ export default function Home() {
     <div className="font-jakarta">
       <main>
         <Image
-          className="w-full h-auto"
+          className="w-full h-auto object-cover max-h-[80vh]"
           src={"/media/banner/main.jpg"}
           alt=""
           width={1920}
