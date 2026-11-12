@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 2000 2000">
+  <!-- Generator: Adobe Illustrator 29.8.2, SVG Export Plug-In . SVG Version: 2.1.1 Build 3)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #231f20;
+        font-family: Poppins-Black, Poppins;
+        font-size: 263.14px;
+        font-weight: 800;
+      }
+
+      .st1 {
+        fill: none;
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+        stroke-width: 100px;
+      }
+    </style>
+  </defs>
+  <path class="st1" d="M1762.85,1557.78c45.92-30.84,76.15-83.24,76.15-142.72v-634.26c0-94.87-76.91-171.79-171.79-171.79H332.79c-94.87,0-171.79,76.91-171.79,171.79v634.26c0,59.47,30.22,111.88,76.14,142.71"/>
+  <g>
+    <text class="st0" transform="translate(364.8 1609.1)"><tspan x="0" y="0">BOTOLKU</tspan></text>
+    <text class="st0" transform="translate(357.43 1358.28)"><tspan x="0" y="0">SEDIA</tspan></text>
+  </g>
+  <path class="st1" d="M1551.22,609.02v-251.09c0-94.87-76.91-171.79-171.79-171.79h-758.88c-94.87,0-171.79,76.91-171.79,171.79v251.09s1102.45,0,1102.45,0Z"/>
+</svg>
