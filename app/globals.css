@@ -12,6 +12,7 @@
   --font-mono: var(--font-geist-mono);
   --font-poppins: var(--font-poppins);
   --font-jakarta: var(--font-jakarta);
+  --font-jetbrain: var(--font-jetbrain-mono);
   /* Color Pallete */
   --color-primary: var(--color-blue-600);
 }

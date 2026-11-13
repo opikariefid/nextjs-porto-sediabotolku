@@ -149,7 +149,7 @@ export default function Home() {
           height={1080}
         />
         <div className="bg-gray-100 px-4 py-15">
-          <div className="gap-8 xl:gap-25 lg:gap-15 grid md:grid-cols-2 lg:grid-cols-4 max-w-300 mx-auto">
+          <div className="gap-8 xl:gap-25 lg:gap-15 grid md:grid-cols-2 lg:grid-cols-4 max-w-400 mx-auto px-8">
             {bannerData.map((v, i) => (
               <BannerImage
                 key={i}

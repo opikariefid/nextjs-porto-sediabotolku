@@ -1,7 +1,7 @@
 import {
   Geist,
   Geist_Mono,
-  Manrope,
+  JetBrains_Mono,
   Plus_Jakarta_Sans,
   Poppins,
 } from "next/font/google";
@@ -28,9 +28,16 @@ const jakartaSans = Plus_Jakarta_Sans({
   weight: ["200", "300", "400", "500", "600", "700", "800"],
 });
 
+const jetbrainMono = JetBrains_Mono({
+  variable: "--font-jetbrain-mono",
+  subsets: ["latin"],
+  weight: ["100", "200", "300", "400", "500", "600", "700", "800"],
+});
+
 export const fontVariables = [
   geistSans.variable,
   geistMono.variable,
   poppinsSans.variable,
   jakartaSans.variable,
+  jetbrainMono.variable,
 ].join(" ");
